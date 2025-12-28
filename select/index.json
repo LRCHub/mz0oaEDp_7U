@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さよならお月様 / 雄之助×zeroth feat. 鳴花ヒメ",
+  "base_artist": "雄之助",
+  "createdAt": "2025-12-28T13:21:15.243085Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならお月様 (feat. 鳴花ヒメ)",
+      "artist": "雄之助、zeroth",
+      "has_synced": false,
+      "path": "select/pl_01_さよならお月様_(feat._鳴花ヒメ)_雄之助、zeroth.txt"
+    }
+  ]
+}
